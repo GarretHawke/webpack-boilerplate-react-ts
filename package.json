@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GarretHawke/webpack-boilerplate-ts.git"
+    "url": "git+https://github.com/GarretHawke/webpack-boilerplate-react-ts.git"
   },
   "author": "Aleksandra Barabash <alexandra17au@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GarretHawke/webpack-boilerplate-ts/issues"
+    "url": "https://github.com/GarretHawke/webpack-boilerplate-react-ts/issues"
   },
-  "homepage": "https://github.com/GarretHawke/webpack-boilerplate-ts#readme",
+  "homepage": "https://github.com/GarretHawke/webpack-boilerplate-react-ts#readme",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/plugin-transform-runtime": "^7.15.0",
